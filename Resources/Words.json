@@ -1,0 +1,364 @@
+{
+  "words": [
+    {
+      "word": "FLUENT",
+      "definition": "Able to express oneself easily and articulately in a language.",
+      "difficulty": 1,
+      "category": "Language Skills",
+      "pronunciation": "/ˈfluːənt/",
+      "examples": [
+        "She is fluent in three languages.",
+        "His fluent speech impressed the audience."
+      ],
+      "synonyms": ["articulate", "eloquent", "smooth"]
+    },
+    {
+      "word": "DRIVE",
+      "definition": "An innate, biologically determined urge to attain a goal or satisfy a need.",
+      "difficulty": 1,
+      "category": "Motivation",
+      "pronunciation": "/draɪv/",
+      "examples": [
+        "Her drive to succeed was inspiring.",
+        "The drive to learn keeps us growing."
+      ],
+      "synonyms": ["motivation", "ambition", "determination"]
+    },
+    {
+      "word": "LEARN",
+      "definition": "To gain knowledge or skill through study, experience, or being taught.",
+      "difficulty": 1,
+      "category": "Education",
+      "pronunciation": "/lɜːrn/",
+      "examples": [
+        "Children learn languages faster than adults.",
+        "We learn from our mistakes."
+      ],
+      "synonyms": ["study", "acquire", "master"]
+    },
+    {
+      "word": "SPEAK",
+      "definition": "To communicate or express thoughts by using spoken language.",
+      "difficulty": 1,
+      "category": "Communication",
+      "pronunciation": "/spiːk/",
+      "examples": [
+        "Can you speak Spanish?",
+        "Actions speak louder than words."
+      ],
+      "synonyms": ["talk", "communicate", "articulate"]
+    },
+    {
+      "word": "WORD",
+      "definition": "A single distinct meaningful element of speech or writing.",
+      "difficulty": 1,
+      "category": "Language",
+      "pronunciation": "/wɜːrd/",
+      "examples": [
+        "Every word has a story.",
+        "Choose your words carefully."
+      ],
+      "synonyms": ["term", "expression", "vocable"]
+    },
+    {
+      "word": "VOICE",
+      "definition": "The sound produced in a person's larynx and uttered through the mouth.",
+      "difficulty": 1,
+      "category": "Phonetics",
+      "pronunciation": "/vɔɪs/",
+      "examples": [
+        "She has a beautiful singing voice.",
+        "Find your authentic voice."
+      ],
+      "synonyms": ["speech", "tone", "utterance"]
+    },
+    {
+      "word": "LEXICON",
+      "definition": "The vocabulary of a person, language, or branch of knowledge.",
+      "difficulty": 2,
+      "category": "Vocabulary",
+      "pronunciation": "/ˈleksɪkɒn/",
+      "examples": [
+        "The scientific lexicon grows daily.",
+        "Expand your personal lexicon."
+      ],
+      "synonyms": ["vocabulary", "dictionary", "wordbook"]
+    },
+    {
+      "word": "SYNTAX",
+      "definition": "The arrangement of words and phrases to create well-formed sentences in a language.",
+      "difficulty": 2,
+      "category": "Grammar",
+      "pronunciation": "/ˈsɪntæks/",
+      "examples": [
+        "English syntax differs from Japanese.",
+        "Proper syntax improves clarity."
+      ],
+      "synonyms": ["grammar", "structure", "sentence structure"]
+    },
+    {
+      "word": "FLUENCY",
+      "definition": "The ability to speak or write a language easily, well, and quickly.",
+      "difficulty": 2,
+      "category": "Language Skills",
+      "pronunciation": "/ˈfluːənsi/",
+      "examples": [
+        "Fluency comes with practice.",
+        "Reading improves language fluency."
+      ],
+      "synonyms": ["eloquence", "articulacy", "facility"]
+    },
+    {
+      "word": "ACCENT",
+      "definition": "A distinctive way of pronouncing a language, associated with a particular region or group.",
+      "difficulty": 2,
+      "category": "Pronunciation",
+      "pronunciation": "/ˈæksent/",
+      "examples": [
+        "She speaks with a French accent.",
+        "Every accent has its charm."
+      ],
+      "synonyms": ["pronunciation", "intonation", "brogue"]
+    },
+    {
+      "word": "DIALECT",
+      "definition": "A particular form of a language specific to a region or social group.",
+      "difficulty": 2,
+      "category": "Sociolinguistics",
+      "pronunciation": "/ˈdaɪəlekt/",
+      "examples": [
+        "The region has its own dialect.",
+        "Dialects enrich a language."
+      ],
+      "synonyms": ["vernacular", "patois", "idiom"]
+    },
+    {
+      "word": "IDIOM",
+      "definition": "A phrase whose meaning is not predictable from the usual meanings of its words.",
+      "difficulty": 2,
+      "category": "Expressions",
+      "pronunciation": "/ˈɪdiəm/",
+      "examples": [
+        "Break a leg is a common idiom.",
+        "Idioms add color to language."
+      ],
+      "synonyms": ["expression", "phrase", "saying"]
+    },
+    {
+      "word": "COGNATE",
+      "definition": "A word having the same linguistic derivation as another, from the same original word.",
+      "difficulty": 3,
+      "category": "Etymology",
+      "pronunciation": "/ˈkɒɡneɪt/",
+      "examples": [
+        "Night and nacht are cognates.",
+        "Cognates help language learners."
+      ],
+      "synonyms": ["related word", "derivative"]
+    },
+    {
+      "word": "PHONEME",
+      "definition": "The smallest unit of sound that can distinguish one word from another in a language.",
+      "difficulty": 3,
+      "category": "Phonology",
+      "pronunciation": "/ˈfəʊniːm/",
+      "examples": [
+        "The phonemes /b/ and /p/ differ only in voicing.",
+        "English has about 44 phonemes."
+      ],
+      "synonyms": ["sound unit", "speech sound"]
+    },
+    {
+      "word": "MORPHEME",
+      "definition": "The smallest grammatical unit of meaning in a language.",
+      "difficulty": 3,
+      "category": "Morphology",
+      "pronunciation": "/ˈmɔːfiːm/",
+      "examples": [
+        "The word 'cats' has two morphemes.",
+        "Prefixes and suffixes are morphemes."
+      ],
+      "synonyms": ["meaning unit", "linguistic unit"]
+    },
+    {
+      "word": "GRAMMAR",
+      "definition": "The set of structural rules governing the composition of sentences in a language.",
+      "difficulty": 3,
+      "category": "Linguistics",
+      "pronunciation": "/ˈɡræmər/",
+      "examples": [
+        "Good grammar enhances communication.",
+        "Each language has unique grammar."
+      ],
+      "synonyms": ["syntax", "rules", "structure"]
+    },
+    {
+      "word": "BILINGUAL",
+      "definition": "Speaking two languages fluently.",
+      "difficulty": 3,
+      "category": "Language Skills",
+      "pronunciation": "/baɪˈlɪŋɡwəl/",
+      "examples": [
+        "Many countries are bilingual.",
+        "Bilingual children have cognitive advantages."
+      ],
+      "synonyms": ["multilingual", "polyglot"]
+    },
+    {
+      "word": "ETYMOLOGY",
+      "definition": "The study of the origin of words and how their meanings have changed through history.",
+      "difficulty": 4,
+      "category": "Word History",
+      "pronunciation": "/ˌetɪˈmɒlədʒi/",
+      "examples": [
+        "Etymology reveals word histories.",
+        "The etymology of 'salary' relates to salt."
+      ],
+      "synonyms": ["word origin", "derivation"]
+    },
+    {
+      "word": "SEMANTICS",
+      "definition": "The branch of linguistics concerned with meaning in language.",
+      "difficulty": 4,
+      "category": "Linguistics",
+      "pronunciation": "/sɪˈmæntɪks/",
+      "examples": [
+        "Semantics studies word meaning.",
+        "The semantics of color vary by culture."
+      ],
+      "synonyms": ["meaning", "signification"]
+    },
+    {
+      "word": "PRAGMATICS",
+      "definition": "The branch of linguistics dealing with language in use and the contexts it is used in.",
+      "difficulty": 4,
+      "category": "Linguistics",
+      "pronunciation": "/præɡˈmætɪks/",
+      "examples": [
+        "Pragmatics considers context in communication.",
+        "Tone is important in pragmatics."
+      ],
+      "synonyms": ["contextual meaning", "usage"]
+    },
+    {
+      "word": "POLYGLOT",
+      "definition": "A person who knows and is able to use several languages.",
+      "difficulty": 4,
+      "category": "Language Skills",
+      "pronunciation": "/ˈpɒliɡlɒt/",
+      "examples": [
+        "The translator was an impressive polyglot.",
+        "Polyglots often learn languages quickly."
+      ],
+      "synonyms": ["multilingual", "linguist"]
+    },
+    {
+      "word": "DIPHTHONG",
+      "definition": "A sound formed by combining two vowels in a single syllable.",
+      "difficulty": 4,
+      "category": "Phonetics",
+      "pronunciation": "/ˈdɪfθɒŋ/",
+      "examples": [
+        "The 'oi' in 'coin' is a diphthong.",
+        "English has many diphthongs."
+      ],
+      "synonyms": ["vowel combination", "gliding vowel"]
+    },
+    {
+      "word": "NEOLOGISM",
+      "definition": "A newly coined word or expression that may be in the process of entering common use.",
+      "difficulty": 5,
+      "category": "Vocabulary",
+      "pronunciation": "/niˈɒlədʒɪzəm/",
+      "examples": [
+        "Selfie was once a neologism.",
+        "Technology creates many neologisms."
+      ],
+      "synonyms": ["new word", "coinage"]
+    },
+    {
+      "word": "COLLOQUIAL",
+      "definition": "Used in ordinary or familiar conversation; not formal or literary.",
+      "difficulty": 5,
+      "category": "Register",
+      "pronunciation": "/kəˈləʊkwiəl/",
+      "examples": [
+        "Gonna is colloquial for 'going to'.",
+        "Colloquial speech varies by region."
+      ],
+      "synonyms": ["informal", "conversational", "vernacular"]
+    },
+    {
+      "word": "ONOMATOPOEIA",
+      "definition": "The formation of a word from a sound associated with what it describes.",
+      "difficulty": 5,
+      "category": "Word Formation",
+      "pronunciation": "/ˌɒnəˌmætəˈpiːə/",
+      "examples": [
+        "Buzz and hiss are onomatopoeia.",
+        "Comics use onomatopoeia frequently."
+      ],
+      "synonyms": ["imitative word", "echo word"]
+    },
+    {
+      "word": "VERNACULAR",
+      "definition": "The language or dialect spoken by the ordinary people in a country or region.",
+      "difficulty": 5,
+      "category": "Sociolinguistics",
+      "pronunciation": "/vəˈnækjʊlər/",
+      "examples": [
+        "The book was written in the vernacular.",
+        "Vernacular expressions vary widely."
+      ],
+      "synonyms": ["native language", "common speech", "dialect"]
+    },
+    {
+      "word": "CIRCUMLOCUTION",
+      "definition": "The use of many words where fewer would do, especially in a deliberate attempt to be vague.",
+      "difficulty": 5,
+      "category": "Rhetoric",
+      "pronunciation": "/ˌsɜːkəmləˈkjuːʃən/",
+      "examples": [
+        "Politicians often use circumlocution.",
+        "Clear writing avoids circumlocution."
+      ],
+      "synonyms": ["wordiness", "verbosity", "periphrasis"]
+    },
+    {
+      "word": "HOMOPHONE",
+      "definition": "Each of two or more words having the same pronunciation but different meanings or spellings.",
+      "difficulty": 3,
+      "category": "Phonology",
+      "pronunciation": "/ˈhɒməfəʊn/",
+      "examples": [
+        "Their and there are homophones.",
+        "Homophones can confuse language learners."
+      ],
+      "synonyms": ["sound-alike"]
+    },
+    {
+      "word": "ANTONYM",
+      "definition": "A word opposite in meaning to another.",
+      "difficulty": 2,
+      "category": "Semantics",
+      "pronunciation": "/ˈæntənɪm/",
+      "examples": [
+        "Hot and cold are antonyms.",
+        "Learning antonyms builds vocabulary."
+      ],
+      "synonyms": ["opposite", "contrary"]
+    },
+    {
+      "word": "SYNONYM",
+      "definition": "A word or phrase that means exactly or nearly the same as another.",
+      "difficulty": 2,
+      "category": "Semantics",
+      "pronunciation": "/ˈsɪnənɪm/",
+      "examples": [
+        "Happy and joyful are synonyms.",
+        "A thesaurus lists synonyms."
+      ],
+      "synonyms": ["equivalent", "similar word"]
+    }
+  ]
+}
